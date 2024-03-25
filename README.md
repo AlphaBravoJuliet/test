@@ -10,12 +10,13 @@ Cryptage IBAN est une application web utilisant le framework Flask, permettant d
 
 ## Installation
 
-1. Cloner le dépôt :
+1. Télécharger le dépôt :
 
-2. Installer les dépendances :
+https://github.com/AlphaBravoJuliet/Le-Fracteur
+
+3. Installer les dépendances :
 
 pip install -r requirements.txt
-
 
 3. Exécuter l'application :
 
